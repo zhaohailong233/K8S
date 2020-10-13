@@ -1,1 +1,1 @@
-FROM  calico/node:v3.17.0-0.dev
+FROM  calico/node:v3.17.0-0
