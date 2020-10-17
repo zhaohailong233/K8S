@@ -1,1 +1,1 @@
-FROM  calico/node:v3.16
+FROM calico/node:v3.16
