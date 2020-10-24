@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kube-scheduler:v1.19.2             
+FROM ambari2.6.2.2
